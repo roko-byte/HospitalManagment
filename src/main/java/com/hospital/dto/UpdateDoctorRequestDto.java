@@ -15,7 +15,7 @@ public class UpdateDoctorRequestDto {
 
     private String lastName;
 
-    private Long phone;
+    private String phone;
 
     private String specialization;
 

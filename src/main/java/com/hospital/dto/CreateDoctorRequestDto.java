@@ -20,7 +20,7 @@ public class CreateDoctorRequestDto {
 	
 	private String email;
 	
-	private Long phone;
+	private String phone;
 	
 	private String specialization;
 	
